@@ -20,3 +20,11 @@ results/
 # OS / editor
 .DS_Store
 *.swp
+.vscode/
+
+# Course homework notebook (not part of the compression system)
+Copy_of_CS260C_26Spring_hw2_student_copy.ipynb
+*.ipynb
+
+# Large model checkpoint (not source; do not push)
+reward_model/
